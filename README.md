@@ -1,1 +1,1 @@
-LemonPie [link del repositorio](https://github.com/SophiaBottini/FrontEnd1/LemonPie) [link de la pagina](https://sophiabottini.github.io/FrontEnd1/LemonPie/index.html) 
+ Lemon Pie [link de la pagina](https://sophiabottini.github.io/FrontEnd1/LemonPie/) 
