@@ -1,0 +1,55 @@
+
+
+/*HEADER*/
+h1,h2{
+    letter-spacing: 10px;
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-align: center;
+ }
+
+ h1{
+     font-size: 35px;
+ }
+
+
+/*MAIN*/
+.container{/*tengo que poner un container donde estan los tres section*/
+    margin: 60px auto;
+    max-width: 70%;
+}
+
+h2{
+    font-size: 20px;
+}
+
+dl{
+    margin-left: 40px;
+  }
+  dd{
+      margin-left: 85px;
+  }
+
+.personal span{
+    font-style: italic; 
+}
+.imagen{
+    text-align: center;
+    background-color: #E5E5E5;
+    width: 10px;
+
+
+}
+  /* Footer */
+  footer{
+    background-color: #005677;
+    color: #fff; 
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+footer a{
+    color: #fff; 
+  }
