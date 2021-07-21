@@ -1,16 +1,17 @@
 
 
 /*HEADER*/
+
 h1,h2{
     letter-spacing: 10px;
-    background-color: #C4C4C4;
-    color: #005677;
+    background-color:rgb(243, 204, 184);
+    color:white;
     letter-spacing: 8px;
     text-transform: uppercase;
     text-align: center;
  }
 
- h1{
+h1{
      font-size: 35px;
  }
 
@@ -35,16 +36,26 @@ dl{
 .personal span{
     font-style: italic; 
 }
-.imagen{
-    text-align: center;
-    background-color: #E5E5E5;
-    width: 10px;
 
+/*contenedor de la imagen*/
+.contenedor{
+    background-color:rgb(222, 167, 161);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-image: url(IMG/fotoMia.jpeg);
+    background-size: cover;
+    display: inline-block;
+}
+
+.alinear{
+    text-align: center;
 
 }
+
   /* Footer */
   footer{
-    background-color: #005677;
+    background-color:rgb(243, 204, 184);
     color: #fff; 
     text-align: center;
     letter-spacing: 5px;
