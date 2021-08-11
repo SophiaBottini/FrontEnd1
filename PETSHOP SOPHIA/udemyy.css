@@ -1,0 +1,16 @@
+
+
+/*estructura*/
+@media (condicion){
+
+    css a aplicar
+}
+
+
+/*llegado a los 480 px todo lo que este dentro de las llaves lo deberas aplicar*/
+@media (min-width: 480px){
+    h1{
+        font-size: 20px;
+        color: #3C2313;
+    }
+}

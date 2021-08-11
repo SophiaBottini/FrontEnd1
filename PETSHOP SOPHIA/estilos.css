@@ -99,6 +99,7 @@ nav li{
 .contenedor p{
     color: #3C2313;
     margin: 20px 0;
+    
 }
 
 .contenedor a{
@@ -132,20 +133,19 @@ nav li a{
     display: flex;
     justify-content:center;
     align-items: center;
-    /* padding: 0 100px; */
     color: #666666;
-    /* font-size: 15px; */
 }
 
 .items>div{
     margin: 0 50px;
+    
 }
 
 .productos{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 0 250px;
+    margin: 0px 250px 100px;
 }
 
 .caja{
@@ -157,3 +157,63 @@ nav li a{
 .caja span{
     color: #F0A83E;
 }
+
+.info{
+    background-color: #F0A83E;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px;
+    
+
+}
+.infoSus{
+    display: flex;
+    flex-direction: row;
+    margin: 0 10px;
+}
+.infoSus>p{
+    color: #FFFFFF;
+    margin: 0 20px;
+    font-size: 18px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+}
+.infoSus>button{
+    background-color: #3C2313;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.informacion{
+    background-color:#3C2313;
+    
+}
+.datos h3 {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+    align-items: center; 
+
+}
+
+.iconos>img{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* tablets
+@media (min-width: 460px ) {
+    
+}
+*/
+/* LAPTOP
+@media (min-width: 768px) {
+    
+}
+*/
+
